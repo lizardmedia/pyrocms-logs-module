@@ -1,0 +1,9 @@
+{
+    "name": "lizard/logs-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Lizard\\LogsModule\\": "src/"
+        }
+    }
+}
