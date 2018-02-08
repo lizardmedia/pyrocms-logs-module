@@ -27,3 +27,6 @@ Use PSR-2, SOLID principles and good design patterns.
 * **Rafał Wachelka** - *Additional work*
 
 See also the list of [contributors](https://github.com/lizardmedia/pyrocms-logs-module/contributors) who participated in this project.
+
+## TODO
+* More examples for development.
