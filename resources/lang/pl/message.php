@@ -13,15 +13,7 @@ return [
     'EntryWasDeleted' => 'Skasowano',
 
     // Observed models
-    'NewsModel' => 'Aktualności',
     'PageModel' => 'Strona',
-    'ObjectModel' => 'Portfolio / Obiekt',
-    'SystemModel' => 'Portfolio / System',
-    'ObjectTypeModel' => 'Portfolio / Typ obiektu',
-    'DeveloperModel' => 'Portfolio / Deweloper',
-    'InvestorModel' => 'Portfolio / Inwestor',
-    'ArchitectModel' => 'Portfolio / Architekt',
-    'StructureDeveloperModel' => 'Portfolio / Deweloper konstr.',
     'FileModel' => 'Plik',
     'FolderModel' => 'Folder plików',
     'MenuModel' => 'Menu',
@@ -29,5 +21,4 @@ return [
     'PageLinkTypeModel' => 'Menu / Link do strony',
     'RedirectModel' => 'Przekierowanie',
     'SettingModel' => 'Ustawienia',
-    'TranslationModel' => 'Tłumaczenie',
 ];

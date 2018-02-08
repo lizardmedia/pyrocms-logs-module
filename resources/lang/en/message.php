@@ -13,15 +13,7 @@ return [
     'EntryWasDeleted' => 'Removed',
 
     // Observed models
-    'NewsModel' => 'News',
     'PageModel' => 'Page',
-    'ObjectModel' => 'Portfolio / Object',
-    'SystemModel' => 'Portfolio / System',
-    'ObjectTypeModel' => 'Portfolio / Object type',
-    'DeveloperModel' => 'Portfolio / Developer',
-    'InvestorModel' => 'Portfolio / Investor',
-    'ArchitectModel' => 'Portfolio / Architect',
-    'StructureDeveloperModel' => 'Portfolio / Structure dev.',
     'FileModel' => 'File',
     'FolderModel' => 'File folder',
     'MenuModel' => 'Menu',
@@ -29,5 +21,4 @@ return [
     'PageLinkTypeModel' => 'Menu / Page link',
     'RedirectModel' => 'Redirect',
     'SettingModel' => 'Settings',
-    'TranslationModel' => 'Translation',
 ];
